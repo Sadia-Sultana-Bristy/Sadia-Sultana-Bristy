@@ -16,11 +16,11 @@ I build maintainable test automation frameworks with **Playwright + JavaScript**
 
 ## 🚀 Featured Projects
 
-| Project | What it covers |
-|---|---|
-| [insureflow-playwright-automation](https://github.com/Sadia-Sultana-Bristy/insureflow-playwright-automation) | Playwright + JavaScript UI automation for an insurance portal: POM, fixtures, data-driven tests, E2E workflows, GitHub Actions CI |
-| [policyhub-api-automation](https://github.com/Sadia-Sultana-Bristy/policyhub-api-automation) | API automation framework: JWT auth, request chaining, JSON Schema contracts, SQL DB validation, idempotency &amp; concurrency tests (114 tests) |
-| [Automated-Testing-of-Rest-Booking-API-with-Newman-Report](https://github.com/Sadia-Sultana-Bristy/Automated-Testing-of-Rest-Booking-API-with-Newman-Report) | Postman collection tests for a REST booking API, run with Newman and HTML reports |
+| Project | What it covers | Live report |
+|---|---|---|
+| [insureflow-playwright-automation](https://github.com/Sadia-Sultana-Bristy/insureflow-playwright-automation) | Playwright + JavaScript UI automation for an insurance portal: POM, fixtures, data-driven tests, E2E workflows, GitHub Actions CI | [View](https://sadia-sultana-bristy.github.io/insureflow-playwright-automation/) |
+| [policyhub-api-automation](https://github.com/Sadia-Sultana-Bristy/policyhub-api-automation) | API automation framework: JWT auth, request chaining, JSON Schema contracts, SQL DB validation, idempotency &amp; concurrency tests (114 tests) | [View](https://sadia-sultana-bristy.github.io/policyhub-api-automation/) |
+| [Automated-Testing-of-Rest-Booking-API-with-Newman-Report](https://github.com/Sadia-Sultana-Bristy/Automated-Testing-of-Rest-Booking-API-with-Newman-Report) | Postman collection tests for a REST booking API, run with Newman and HTML reports | — |
 
 ## 🛠️ Tools &amp; Skills
 
