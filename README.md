@@ -18,6 +18,7 @@ I build maintainable test automation frameworks with **Playwright + JavaScript**
 
 | Project | What it covers | Live report |
 |---|---|---|
+| [paynest-banking-playwright-framework](https://github.com/Sadia-Sultana-Bristy/paynest-banking-playwright-framework) | Enterprise-style framework for a demo online bank: POM, layered fixtures, real TOTP MFA, per-test data isolation, API + UI layers, custom matchers and reporter, 3-browser sharded CI with merged reports (168 tests) | [View](https://sadia-sultana-bristy.github.io/paynest-banking-playwright-framework/) |
 | [insureflow-playwright-automation](https://github.com/Sadia-Sultana-Bristy/insureflow-playwright-automation) | Playwright + JavaScript UI automation for an insurance portal: POM, fixtures, data-driven tests, E2E workflows, GitHub Actions CI | [View](https://sadia-sultana-bristy.github.io/insureflow-playwright-automation/) |
 | [policyhub-api-automation](https://github.com/Sadia-Sultana-Bristy/policyhub-api-automation) | API automation framework: JWT auth, request chaining, JSON Schema contracts, SQL DB validation, idempotency &amp; concurrency tests (114 tests) | [View](https://sadia-sultana-bristy.github.io/policyhub-api-automation/) |
 | [Automated-Testing-of-Rest-Booking-API-with-Newman-Report](https://github.com/Sadia-Sultana-Bristy/Automated-Testing-of-Rest-Booking-API-with-Newman-Report) | Postman collection tests for a REST booking API, run with Newman and HTML reports | [View](https://sadia-sultana-bristy.github.io/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/) |
